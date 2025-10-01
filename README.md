@@ -1,4 +1,4 @@
-# 📄 Carta de Presentación (Español - Versión Moderna)
+# 📄 Sobre mí
 
 👋 Soy **Sebastián Giannini**, estudiante de la **Licenciatura en Informática** con experiencia en 💻 desarrollo full stack, 🛠️ soporte técnico, 🔍 QA y 📚 docencia.  
 Mi camino arrancó en la **electrónica**, después me metí en la **programación**, y hoy estoy enfocado en seguir creciendo en IT y sumando experiencia en proyectos reales.
@@ -23,7 +23,7 @@ Java · Spring Boot · Hibernate/JPA · MySQL/PostgreSQL · JWT/OAuth2 · Docker
 
 ---
 
-# 📄 Cover Letter (English - Modern Version)
+# 📄 About me
 
 👋 I’m **Sebastián Giannini**, a **Computer Science student** with experience in 💻 full stack development, 🛠️ technical support, 🔍 QA, and 📚 teaching.  
 I started in **electronics**, later moved into **programming**, and now I’m focused on growing in IT while gaining experience in real-world projects.
